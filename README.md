@@ -18,13 +18,13 @@
 <!-- Estatísticas do GitHub -->
 <h2 align="center">Estatísticas do GitHub 📈</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurvieirasilvaa&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurvieirasilvaa&show_icons=true&theme=synthwave&include_all_commits=true" alt="Estatísticas do GitHub">
 </p>
 
 <!-- Linguagens Mais Usadas -->
-<h2 align="center">Linguagens Mais Usadas 💻</h2>/
+<h2 align="center">Linguagens Mais Utilizadas 💻</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvieirasilvaa&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvieirasilvaa&layout=compact&theme=synthwave" alt="Linguagens Mais Usadas">
 </p>
 
 <!-- Conecte-se Comigo -->
