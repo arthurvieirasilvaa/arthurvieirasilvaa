@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arthur Vieira Silva!</h1>
 
-<p align="center">Computer science student at Universidade Federal de São João del Rei, welcome to my GitHub profile ✌ </p>
+<p align="center">Computer Science student at Universidade Federal de São João del Rei, welcome to my GitHub profile ✌ </p>
 
 <!-- Linguagens e Tecnologias -->
 <h2 align="center">Languages and Technologies 🧑‍💻</h2>
