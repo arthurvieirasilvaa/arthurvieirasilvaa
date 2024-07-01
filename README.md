@@ -4,7 +4,7 @@
 
 <!-- Linguagens e Tecnologias -->
 <h2 align="center">Languages and Technologies 🧑‍💻</h2>
-<p align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70", height="70"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="70" height="70"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>        
@@ -14,8 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70" height="70"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="70" height="70"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70" height="70"/>        
-</p>
-
+</div>
 
 <!-- Estatísticas do GitHub -->
 <h2 align="center">GitHub Stats 📈</h2>
