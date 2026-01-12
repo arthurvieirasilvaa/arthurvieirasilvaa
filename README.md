@@ -1,11 +1,20 @@
-<h1 align="center">Hi, I'm Arthur Vieira Silva!</h1>
+<h1>Hi, I'm Arthur Vieira Silva!</h1>
 
-<p align="center">Computer Science student at Universidade Federal de São João del Rei, welcome to my GitHub profile ✌ </p>
+<p>Computer Science student at Universidade Federal de São João del Rei, welcome to my GitHub profile ✌️</p>
+
+<h2>About Me 👤</h2>
+
+<p>
+🧒 22 years old <br>
+🎓 Undergraduate student in Computer Science <br>
+💻 Interested in Backend Development with Java <br>
+🌍 Based in Brazil
+</p>
 
 <!-- Linguagens e Tecnologias -->
-<h2 align="center">Languages and Technologies 🧑‍💻</h2>
+<h2>Languages and Technologies 🧑‍💻</h2>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
@@ -18,21 +27,10 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div>
 
-<!-- Estatísticas do GitHub -->
-<h2 align="center">GitHub Stats 📈</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurvieirasilvaa&show_icons=true&theme=synthwave&include_all_commits=true" alt="Estatísticas do GitHub">
-</p>
-
-<!-- Linguagens Mais Usadas -->
-<h2 align="center">Most used languages 💻</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvieirasilvaa&layout=compact&theme=synthwave" alt="Linguagens Mais Usadas">
-</p>
-
 <!-- Conecte-se Comigo -->
-<h2 align="center">Contact me ☎️</h2>
-<div align="center">
+<h2>Contact me ☎️</h2>
+
+<div>
   <a href="https://www.linkedin.com/in/arthurvieirasilva/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:arthursilvavieira03@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
