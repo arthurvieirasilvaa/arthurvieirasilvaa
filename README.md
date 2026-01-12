@@ -4,12 +4,12 @@
 
 <h2>About Me 👤</h2>
 
-<p>
-🧒 22 years old <br>
-🎓 Undergraduate student in Computer Science <br>
-💻 Interested in Backend Development with Java <br>
-🌍 Based in Brazil
-</p>
+<ul>
+  <li>🧒 22 years old</li>
+  <li>🎓 Undergraduate student in Computer Science</li>
+  <li>💻 Interested in Backend Development with Java</li>
+  <li>🌍 Based in Brazil</li>
+</ul>
 
 <!-- Linguagens e Tecnologias -->
 <h2>Languages and Technologies 🧑‍💻</h2>
