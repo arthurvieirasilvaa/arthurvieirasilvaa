@@ -1,5 +1,3 @@
-![Header](./your-header-image-name.png)
-
 <h1>Hi, I'm Arthur Vieira Silva!</h1>
 
 <p>Computer Science student at Universidade Federal de São João del Rei, welcome to my GitHub profile ✌️</p>
