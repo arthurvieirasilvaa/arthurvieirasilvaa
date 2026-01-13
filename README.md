@@ -8,7 +8,7 @@
   <li>🧒 22 years old</li>
   <li>🎓 Undergraduate student in Computer Science</li>
   <li>💻 Interested in Backend Development with Java</li>
-  <li>🌍 Based in Brazil</li>
+  <li>🌍 Resende Costa - MG</li>
 </ul>
 
 <!-- Linguagens e Tecnologias -->
