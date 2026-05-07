@@ -14,7 +14,7 @@ Focused on Backend Development with Java, Spring Boot and PostgreSQL.
 
 <ul>
   <li>🎓 Computer Science student at Universidade Federal de São João del-Rei (UFSJ)</li>
-  <li>☕ Focused on Backend Development with Java, Spring Boot and PostgreSQL</li>
+  <li>☕ Building backend applications using Java, Spring Boot and PostgreSQL</li>
   <li>📚 Currently improving my skills in Spring Boot</li>
   <li>📍 Minas Gerais, Brazil</li>
 </ul>
