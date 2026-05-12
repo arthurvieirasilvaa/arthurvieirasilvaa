@@ -23,7 +23,7 @@ Focused on Backend Development with Java, Spring Boot and PostgreSQL.
 
 <h2>🛠 Languages and Technologies</h2>
 
-<h3>Languages</h3>
+<h3>Languages and Frameworks</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
